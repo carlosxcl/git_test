@@ -1,1 +1,3 @@
 An upstream branch is usually used to pull from a project you might not have access to push to (a project that might not be yours). It's useful for when you want to have the latest versions of that project, whilst still being able to work on it locally. 
+
+.
