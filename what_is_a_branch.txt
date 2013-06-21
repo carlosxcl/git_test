@@ -1,1 +1,3 @@
 As the name implies, a git branch works like those of a tree, where different extensions or division grow from a master or main branch. They are usually created so that different users can collaborate on a single project, or when you'd like to work on something without changing your main master branch (like if you have a bug on V1.2 of a program, you can go to that V1.2 fix the bug and then merge it to the master branch head (say V.1.6). 
+
+.
