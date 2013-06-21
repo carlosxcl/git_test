@@ -1,0 +1,1 @@
+Git clone basically copies another git repository into your local file system. This is useful for when you might want to start working on a project that might not be yours, as you can clone it and start working on it locally. 
